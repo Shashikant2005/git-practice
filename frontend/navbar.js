@@ -1,0 +1,1 @@
+let nav =["home","about","contact","blog"]
