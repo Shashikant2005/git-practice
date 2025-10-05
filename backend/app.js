@@ -1,2 +1,6 @@
 
-console.log("this is app. js updated ")
+console.log("this is app. js ")
+
+function app(){
+    console.log("this is app function")
+}
